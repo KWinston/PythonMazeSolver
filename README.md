@@ -1,0 +1,2 @@
+# PythonMazeSolver
+Old academic work
